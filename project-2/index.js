@@ -26,7 +26,7 @@ if(a>b){
     
 }
 else{
-    document.querySelector(".res").innerHTML="Oh no! We lost to "+villain+". Will we ever get?";
+    document.querySelector(".res").innerHTML="Oh no! We lost to "+villain+". Will we ever get justice?";
 }
 
 
